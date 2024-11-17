@@ -1,0 +1,8 @@
+Flask
+requests
+numpy
+Pillow
+matplotlib
+scikit-learn
+tensorflow
+
